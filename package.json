@@ -1,0 +1,25 @@
+{
+    "name": "test",
+    "version": "1.0.0",
+    "description": "",
+    "main": "test.js",
+    "scripts": {
+        "start": "nodemon src/index.js localhost 8080",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "json-server": "^0.16.1"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.4"
+    },
+    "memo": {
+        "note1": "install all dependencies, devDependencies after download to makeiup node_modules document",
+        "note2": "packeages of dependencies are for releasing ; of devDependencies are for debuging",
+        "index1": "https://reurl.cc/pdpbNe",
+        "index2": "https://reurl.cc/WdbYeO"
+    }
+}
